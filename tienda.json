@@ -1,6 +1,17 @@
-{
-  "nombre": "Super Mario War",
-  "autor": "Comunidad",
-  "version": "1.0",
-  "descripcion": "Un juego multijugador de Mario muy divertido."
-}
+[
+  {
+    "nombre": "Space Invaders",
+    "autor": "Juertas3D",
+    "url": "https://raw.githubusercontent.com/devkitPro/examples/master/README.md"
+  },
+  {
+    "nombre": "Pong Remake",
+    "autor": "Comunidad",
+    "url": "https://raw.githubusercontent.com/devkitPro/examples/master/README.md"
+  },
+  {
+    "nombre": "Test App 3",
+    "autor": "Homebrew",
+    "url": "https://raw.githubusercontent.com/devkitPro/examples/master/README.md"
+  }
+]
